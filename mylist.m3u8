@@ -1,6 +1,6 @@
 #EXTM3U
 
-************************  16/JUN/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
+************************  07/JUL/2023  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
@@ -97,7 +97,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", TELEFE AR
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=892117227&_cdn_timestamp=1687139892&_cdn_token=1618e838dc32e9237462593be5d4127346c5dd18
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=947579867&_cdn_timestamp=1688910516&_cdn_token=8f61aff0b9f52d53985b1e1ef3db2813319f762a
 #EXTINF:-1 group-title="Bics Extra", CINCO TV AR
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
@@ -129,11 +129,11 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 group-title="Bics Extra", TICAVISION CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=897289539&_cdn_timestamp=1687317960&_cdn_token=4d108916d06a6e41fdf525d431d04b01036b964d
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=952567843&_cdn_timestamp=1689053471&_cdn_token=580ad4ca380c2f28bbdd65d37335ae0fafde0977
 #EXTINF:-1  group-title="Bics Extra", PANAMERICANA PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=897276147&_cdn_timestamp=1687317682&_cdn_token=465c831d75276d2167987236a33c21658861c05a
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=952550667&_cdn_timestamp=1689052941&_cdn_token=35ff5891765f51239f164acbb298110cde52a42f
 #EXTINF:-1  group-title="Bics Extra", AMERICA TELEVISION PE
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=897275419&_cdn_timestamp=1687317667&_cdn_token=b30831ca697fd02da1b492ff128ef439517e4530
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=952546755&_cdn_timestamp=1689052831&_cdn_token=19c3b7d526aa3fd99a70661632c880af94d1ddde
 #EXTINF:-1 group-title="Bics Extra", TELE 13 CL
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Bics Extra", 24 HORAS CL
@@ -168,25 +168,25 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Bics Extra", ATRES CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Paramount Network
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=891967003&_cdn_timestamp=1687137289&_cdn_token=a9e3e2b8cb705c17970462e8d22a8b0d56bc3e97
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=947430155&_cdn_timestamp=1688905447&_cdn_token=1b3b54d90b0aa1532fcde7a99b050f62984da4c9
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=878024963&_cdn_timestamp=1686634725&_cdn_token=2d4fe68a8e21e5290001b1dc7271eaa5e8f7374d
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=947431603&_cdn_timestamp=1688905490&_cdn_token=33a8f4605d99f318c2e61c9c71d8479170dec1b2
 #EXTINF:-1 group-title="Bics Extra", USA | Sony Movies
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=891967819&_cdn_timestamp=1687137308&_cdn_token=1ead5548dcb7a5bcb0a6ee670dc92e9814111dcd
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=947432715&_cdn_timestamp=1688905524&_cdn_token=dd3409c009e4e86e40c9c3bd05771c939f88aa76
 #EXTINF:-1 group-title="Bics Extra", USA | TBS
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Studio Universal
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=891971083&_cdn_timestamp=1687137379&_cdn_token=7677ee6abb0772eccd589264c9dcd9960804f71a
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=947434867&_cdn_timestamp=1688905583&_cdn_token=a9ba55b021d2ea81d3a9d40c16ed06ebec372ec2
 #EXTINF:-1 group-title="Bics Extra", USA | Syfy
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=891971795&_cdn_timestamp=1687137398&_cdn_token=ae5af30f9b6fbca246c089fddf40449dfe5f1136
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/SYFY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_session=947435891&_cdn_timestamp=1688905612&_cdn_token=ea79c560ae1c624b6759e6ff656b4b72ced0a725
 #EXTINF:-1 group-title="Bics Extra", USA | Warner Channel
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Star Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=891974563&_cdn_timestamp=1687137456&_cdn_token=b9b876d7f86c4f069a328e809a17760fcbe67718
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=947439107&_cdn_timestamp=1688905726&_cdn_token=6a0857a430c108be8be20cee67ea20e87718ae76
 #EXTINF:-1 group-title="Bics Extra", USA | FX
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=891975611&_cdn_timestamp=1687137473&_cdn_token=8ead90ce51e1573f8d1c83dbdf0e792a12182ab5
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=947439827&_cdn_timestamp=1688905751&_cdn_token=3c3cb17fbb90de835dd69d2cc4af91a1b3fbbcee
 #EXTINF:-1 group-title="Bics Extra", USA | Universal TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=891977387&_cdn_timestamp=1687137504&_cdn_token=160c4711a6b931fa7a30202d1639168085bb766b
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=947441555&_cdn_timestamp=1688905808&_cdn_token=da8090645e3afcb34f9e75c173beace746140918
 #EXTINF:-1 group-title="Bics Extra", USA | Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Universal Cinema
@@ -219,9 +219,9 @@ http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 group-title="Bics Extra", USA | Nickelodeon
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=891983763&_cdn_timestamp=1687137637&_cdn_token=6909870d8eaaca54fe8f372b4b80373210e0c489
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=947448331&_cdn_timestamp=1688906031&_cdn_token=025ec75dc575695fc09992f1a11e4952d06cf75d
 #EXTINF:-1 group-title="Bics Extra", USA | Nick Jr.
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=891984083&_cdn_timestamp=1687137644&_cdn_token=5f091e44518485532f4743f2c33e269735f8e4be
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=947449179&_cdn_timestamp=1688906061&_cdn_token=e50ba5d6b463efa374ef4dcce3f3196ba16c3665
 
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
@@ -232,26 +232,40 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
+#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 LatinoAmerica HD
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
 
+#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
+http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=892002883&_cdn_timestamp=1687138003&_cdn_token=62c7c5091d37b03689da2939543c6f8a47a69806
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=947504019&_cdn_timestamp=1688907863&_cdn_token=dc140f731b94af2608ab2d7105b99f6c9fbe4813
 #EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=892004739&_cdn_timestamp=1687138035&_cdn_token=c3ec64bdaa1810e060de95b8b607b90d8f59cfbd
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=947504299&_cdn_timestamp=1688907877&_cdn_token=75fa39496bd5ac7774c97edb8b8b427f46ca7d2c
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=892007259&_cdn_timestamp=1687138082&_cdn_token=eb114e952c824d0209a845585ad26fc8d8692c6e
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=947504651&_cdn_timestamp=1688907894&_cdn_token=86d79963f8427bdcfc4841481a04a8d8468ff83d
 #EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=892008763&_cdn_timestamp=1687138105&_cdn_token=94f0c339d20efdc45b16db80ce6f741854d0aa03
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=947505907&_cdn_timestamp=1688907954&_cdn_token=cdb9b635e00ed881bf0b9d45f543eb73f4b96a96
 #EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=892015867&_cdn_timestamp=1687138266&_cdn_token=4fcb224e997e0d41991d0dbbd055058fc5e5afcb
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=947507315&_cdn_timestamp=1688908021&_cdn_token=d875775aa55926b07fdf8f0149b37a1becef4a91
 #EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=892013955&_cdn_timestamp=1687138219&_cdn_token=c62c5a8ba2b7f12932e18644f0904c6d830f8c9b
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=947508019&_cdn_timestamp=1688908049&_cdn_token=fbeaf690a07890834165b6b0d64bd8119cc10ce7
 #EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=892023739&_cdn_timestamp=1687138432&_cdn_token=8104082d252070331118147370c2b18c41eee3af
+http://190.217.117.194:8000/play/a02y/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports
+http://45.228.234.162:24000/play/a08l/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports 2
+http://181.189.243.254:8000/play/a0on/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Tigo Sports Guatemala
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50262.m3u8
 
 *******************************  https://raw.githubusercontent.com/jsosao/mortal251_ssiptvarg/main/jlm3uargentinaygratuita.m3u   *************************************************
 
